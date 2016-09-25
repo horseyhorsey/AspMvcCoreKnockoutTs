@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
+    "knockout": "registry:dt/knockout#0.0.0+20160914182733",
+    "require": "registry:dt/require#2.1.20+20160919185614"
+  }
+}
